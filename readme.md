@@ -20,7 +20,6 @@ Liste des Commandes
 - Permet de lister les modifications à traiter
 
 ## git log
-<<<<<<< HEAD
 - Permet de lister les modifications en locale
 
 ## git branch
@@ -33,5 +32,9 @@ Liste des Commandes
 
 ## git pull
 - Permet de récupérer les modifications distantes
-=======
-Permet de lister les modifications en locale
+- Permet de lister les modifications en locale
+
+## git rebase 
+- Permet de récupérer les modifications de la branche mère
+- Les modifications de la branche mère sont placées en dessous des modifications de la branche courante
+- Les modifications de la branche courante sont placées au dessus des modifications de la branche mère.
