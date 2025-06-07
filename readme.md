@@ -38,3 +38,15 @@ Liste des Commandes
 - Permet de récupérer les modifications de la branche mère
 - Les modifications de la branche mère sont placées en dessous des modifications de la branche courante
 - Les modifications de la branche courante sont placées au dessus des modifications de la branche mère.
+
+## git merge 
+- Permet de récupérer les modifications de la branche fille dans la branche mère
+- Les modifications des deux branches sont fusionnées
+
+## git reset
+- Permetnde de supprimer un commit 
+- Permet de revenir à un commit défini par son identifiant
+- Attention à utiliser avec précaution
+
+## git diff 
+- Permet de comparer deux commits
