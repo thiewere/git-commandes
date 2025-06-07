@@ -20,6 +20,7 @@ Liste des Commandes
 - Permet de lister les modifications à traiter
 
 ## git log
+<<<<<<< HEAD
 - Permet de lister les modifications en locale
 
 ## git branch
@@ -32,3 +33,8 @@ Liste des Commandes
 
 ## git pull
 - Permet de récupérer les modifications distantes
+=======
+Permet de lister les modifications en locale
+
+## git branch feature/
+>>>>>>> e10317c (Création des pages html)
