@@ -21,3 +21,5 @@ Permet de pousser les modifications en ligne
 
 ## git log
 Permet de lister les modifications en locale
+
+## git branch feature/
