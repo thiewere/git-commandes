@@ -58,4 +58,7 @@ Liste des Commandes
 - Permet de lister les branches supprimée
 
 ## git push origin :branch_name
--Permet de supprimer une branche en remote
+- Permet de supprimer une branche en remote
+
+## git commit --amend --reset-author
+- Permet de modifier le dernier commit faite et y appliquer les nouvelles informations d'auteur configurées.
