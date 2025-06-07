@@ -35,6 +35,3 @@ Liste des Commandes
 - Permet de récupérer les modifications distantes
 =======
 Permet de lister les modifications en locale
-
-## git branch feature/
->>>>>>> e10317c (Création des pages html)
