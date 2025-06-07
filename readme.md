@@ -50,3 +50,12 @@ Liste des Commandes
 
 ## git diff 
 - Permet de comparer deux commits
+
+## git branch -d branch_name 
+- Permet de supprimer une branche en local
+
+## git branch -r
+- Permet de lister les branches supprimée
+
+## git push origin :branch_name
+-Permet de supprimer une branche en remote
